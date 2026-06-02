@@ -32,7 +32,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=daiyamondu&theme=dark&hide_total_contributions=true&hide_longest_streak=true
+          options: user=daiyamondu&theme=dark&hide_total_contributions=true&hide_longest_streak=true&card_width=150
           path: profile/streak.svg
           token: ${{ secrets.MY_PAT }}
 
