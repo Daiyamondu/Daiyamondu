@@ -5,6 +5,7 @@
 <p align="center">
   <img height="200em" src="./profile/stats.svg" alt="Stats"/>
   <img height="200em" src="./profile/top-langs.svg" alt="Top Languages"/>
+  <img height="200em" src="./profile/streak.svg" alt="Streak"/>
 </p>
 
 <!--
