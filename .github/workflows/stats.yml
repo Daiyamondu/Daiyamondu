@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=daiyamondu&layout=compact&langs_count=6&theme=tokyonight
+          options: username=daiyamondu&layout=compact&langs_count=8&theme=tokyonight
           path: profile/top-langs.svg
           token: ${{ secrets.MY_PAT }}
 
