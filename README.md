@@ -1,4 +1,4 @@
-## Hi there 👋
+[Hey there!](https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hey%20there!&textBg=false&section=header&descSize=20&descAlignY=60&fontAlign=50&fontAlignY=40&reversal=false&stroke=000000)
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
